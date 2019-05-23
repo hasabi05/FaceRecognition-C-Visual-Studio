@@ -1,0 +1,14 @@
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Quiz.exe.config
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Quiz.exe
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Quiz.pdb
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Emgu.CV.UI.dll
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Emgu.CV.World.dll
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\ZedGraph.dll
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Emgu.CV.UI.xml
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\bin\Debug\Emgu.CV.World.xml
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.exe
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
+c:\users\a l i c e\documents\visual studio 2015\Projects\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
